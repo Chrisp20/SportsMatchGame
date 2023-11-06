@@ -40,6 +40,7 @@ A stretch feature of a countdown timer may be added, as well as different game m
 - countdown timer
 - users can use tab controller to see prior scores
 - user can change between sports or imaging
+- change the number of matches defaults to 6 matches (12 items)
 
 #### 2. Screen Archetypes
 **Start Screen**
