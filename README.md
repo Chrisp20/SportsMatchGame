@@ -68,7 +68,7 @@ A stretch feature of a countdown timer may be added, as well as different game m
 REPEATS
 
 ### Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+![IMG_4634](https://github.com/Chrisp20/SportsMatchGame/assets/127156054/6d1c629f-91f1-4697-9c1c-6de36483f36b)
 
 #### [BONUS] Digital Wireframes & Mockups
 #### [BONUS] Interactive Prototype
