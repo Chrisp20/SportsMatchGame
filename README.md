@@ -82,3 +82,8 @@ REPEATS
 [Add list of network requests by screen ]
 [Create basic snippets for each Parse network request]
 [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+Sprint1
+First week sprint. This week I incorporated the creation of my idea. The memory game as well as mapping and outline the project. I created a name for the project and the wireframe image. The beginning of the project is in place.
+
+For this week I have prepped the code for the start up page.
