@@ -12,3 +12,9 @@ Breakdown of sprints:
 - Sprint 3: build the basic game layout and completion (add assets), of players
 - Spring 4: update settings, for players/emoji selections
 - Sprint 5: implement the navigations tools from the project wireframe
+
+
+First week sprint. This week I incorporated the creation of my idea. The memory game as well as mapping and outline the project. I created a name for the project and the wireframe image. The beginning of the project is in place.
+
+For this week I have prepped the code for the start up page.
+
