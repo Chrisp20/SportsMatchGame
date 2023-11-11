@@ -113,6 +113,10 @@ not have the ability to affect the actual app. I also decided not to include the
 because there is no longer a score tracker as I had previously. I dedicated to remove the score tracker in replace of a countdown
 timer that ends the app run.
 
+Portrait -> Landscape
+
 Sprints 1, 2, 3, 5, and portion of 4 is completed. The portion that is not complete is the stretch feature.
 I have uploaded the code into my github respitory.
+
+Notable changes: removal of the score tracker that was in my wireframe, restart button, entire layout from potrait to landscape.
 
