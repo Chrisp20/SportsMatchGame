@@ -123,10 +123,23 @@ I restarted on the app I total of 7 times, hope you all enjoy.
 
 DEMO DAY RECORDING for 11/14/2023 Class
 
+*Sorry: Lost
+
 <div>
     <a href="https://www.loom.com/share/95a46295b5e449d695b7959796207ac9">
     </a>
     <a href="https://www.loom.com/share/95a46295b5e449d695b7959796207ac9">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/95a46295b5e449d695b7959796207ac9-with-play.gif">
+    </a>
+  </div>
+
+
+*Congratulation: Winner
+
+  <div>
+    <a href="https://www.loom.com/share/a2738e7ae49f4121a9b9cc7eeb7b0668">
+    </a>
+    <a href="https://www.loom.com/share/a2738e7ae49f4121a9b9cc7eeb7b0668">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a2738e7ae49f4121a9b9cc7eeb7b0668-with-play.gif">
     </a>
   </div>
