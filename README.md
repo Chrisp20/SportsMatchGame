@@ -120,3 +120,13 @@ I have uploaded the code into my github respitory.
 
 Notable changes: removal of the score tracker that was in my wireframe, restart button, entire layout from potrait to landscape.
 
+
+DEMO DAY RECORDING for 11/14/2023 Class
+
+<div>
+    <a href="https://www.loom.com/share/95a46295b5e449d695b7959796207ac9">
+    </a>
+    <a href="https://www.loom.com/share/95a46295b5e449d695b7959796207ac9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/95a46295b5e449d695b7959796207ac9-with-play.gif">
+    </a>
+  </div>
