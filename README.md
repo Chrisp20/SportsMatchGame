@@ -1,6 +1,6 @@
 # Original App Design Project - README Template
 
-# Sports Matching Memory Game (S.M.M.G)
+# Sports Match App (S.M.M.G)
 
 
 ## Table of Contents
