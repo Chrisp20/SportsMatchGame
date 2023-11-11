@@ -73,7 +73,7 @@ REPEATS
 #### [BONUS] Digital Wireframes & Mockups
 #### [BONUS] Interactive Prototype
 ### Schema
-[This section will be completed in Unit 9]
+![Schema:NewWireFrame](https://github.com/Chrisp20/SportsMatchGame/assets/127156054/fad9671e-25a6-49f2-a935-b0f0ec372b74)
 
 #### Models
 [Add table of models]
