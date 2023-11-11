@@ -119,7 +119,7 @@ Sprints 1, 2, 3, 5, and portion of 4 is completed. The portion that is not compl
 I have uploaded the code into my github respitory.
 
 Notable changes: removal of the score tracker that was in my wireframe, restart button, entire layout from potrait to landscape.
-
+I restarted on the app I total of 7 times, hope you all enjoy.
 
 DEMO DAY RECORDING for 11/14/2023 Class
 
