@@ -1,6 +1,6 @@
 # Original App Design Project - README Template
 
-# Sports Match App (S.M.M.G)
+# Sports Match App (S.M.A.)
 
 
 ## Table of Contents
