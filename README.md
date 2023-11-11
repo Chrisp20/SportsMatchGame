@@ -38,7 +38,6 @@ A stretch feature of a countdown timer may be added, as well as different game m
 **Optional Nice-to-have Stories**
 
 - countdown timer
-- users can use tab controller to see prior scores
 - user can change between sports or imaging
 - change the number of matches defaults to 6 matches (12 items)
 
@@ -50,22 +49,21 @@ A stretch feature of a countdown timer may be added, as well as different game m
 - Includes the matching items allows user to play.
 
 **End of Game Screen**
-- Displays final score and ask user if they want to play again.
+- Displays winner or loser after time run out.
 
 **Setting Screen**
 - Allows user to pick between sports or imaging.
 #### 3. Navigation
 **Tab Navigation** (Tab to Screen)
 - Game setting
-- Previous Results
 - Game
 
 **Flow Navigation** (Screen to Screen)
 
 - Start Screen
 - Game screen
-- End Game(ask if you want to replay)
-REPEATS
+- End Game(display winner or loser)
+
 
 ### Wireframes
 ![IMG_4634](https://github.com/Chrisp20/SportsMatchGame/assets/127156054/6d1c629f-91f1-4697-9c1c-6de36483f36b)
