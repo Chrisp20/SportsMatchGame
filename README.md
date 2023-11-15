@@ -111,7 +111,7 @@ not have the ability to affect the actual app. I also decided not to include the
 because there is no longer a score tracker as I had previously. I dedicated to remove the score tracker in replace of a countdown
 timer that ends the app run.
 
-Portrait -> Landscape
+Portrait -> [Landscape]
 
 Sprints 1, 2, 3, 5, and portion of 4 is completed. The portion that is not complete is the stretch feature.
 I have uploaded the code into my github respitory.
@@ -141,3 +141,5 @@ DEMO DAY RECORDING for 11/14/2023 Class
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a2738e7ae49f4121a9b9cc7eeb7b0668-with-play.gif">
     </a>
   </div>
+
+  
